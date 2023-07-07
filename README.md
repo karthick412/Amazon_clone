@@ -1,1 +1,1 @@
-A clone of amazon websit using htm and css
+A clone of amazon website using html and css
